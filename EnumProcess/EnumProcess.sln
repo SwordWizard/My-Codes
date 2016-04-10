@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnumProcess", "EnumProcess\EnumProcess.vcxproj", "{3DC3D343-E2AE-4605-B74F-0E3E7D724732}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thread", "Thread\Thread.vcxproj", "{50590429-BD4F-4B90-9668-62DADCEAA379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC3D343-E2AE-4605-B74F-0E3E7D724732}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3DC3D343-E2AE-4605-B74F-0E3E7D724732}.Debug|Win32.Build.0 = Debug|Win32
+		{3DC3D343-E2AE-4605-B74F-0E3E7D724732}.Release|Win32.ActiveCfg = Release|Win32
+		{3DC3D343-E2AE-4605-B74F-0E3E7D724732}.Release|Win32.Build.0 = Release|Win32
+		{50590429-BD4F-4B90-9668-62DADCEAA379}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50590429-BD4F-4B90-9668-62DADCEAA379}.Debug|Win32.Build.0 = Debug|Win32
+		{50590429-BD4F-4B90-9668-62DADCEAA379}.Release|Win32.ActiveCfg = Release|Win32
+		{50590429-BD4F-4B90-9668-62DADCEAA379}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
